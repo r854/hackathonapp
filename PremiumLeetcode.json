@@ -1,0 +1,5470 @@
+[
+    {
+        "number": "163",
+        "name": "Missing Ranges",
+        "tags": [
+            "Array"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/missing-ranges"
+    },
+    {
+        "number": "170",
+        "name": "Two Sum III - Data structure design",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Design",
+            "Data Stream"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/two-sum-iii-data-structure-design"
+    },
+    {
+        "number": "243",
+        "name": "Shortest Word Distance",
+        "tags": [
+            "Array",
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/shortest-word-distance"
+    },
+    {
+        "number": "244",
+        "name": "Shortest Word Distance II",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Design"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/shortest-word-distance-ii"
+    },
+    {
+        "number": "245",
+        "name": "Shortest Word Distance III",
+        "tags": [
+            "Array",
+            "String"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/shortest-word-distance-iii"
+    },
+    {
+        "number": "247",
+        "name": "Strobogrammatic Number II",
+        "tags": [
+            "Array",
+            "String",
+            "Recursion"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/strobogrammatic-number-ii"
+    },
+    {
+        "number": "248",
+        "name": "Strobogrammatic Number III",
+        "tags": [
+            "Array",
+            "String",
+            "Recursion"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/strobogrammatic-number-iii"
+    },
+    {
+        "number": "249",
+        "name": "Group Shifted Strings",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/group-shifted-strings"
+    },
+    {
+        "number": "251",
+        "name": "Flatten 2D Vector",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Design",
+            "Iterator"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/flatten-2d-vector"
+    },
+    {
+        "number": "252",
+        "name": "Meeting Rooms",
+        "tags": [
+            "Array",
+            "Sorting"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/meeting-rooms"
+    },
+    {
+        "number": "253",
+        "name": "Meeting Rooms II",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/meeting-rooms-ii"
+    },
+    {
+        "number": "254",
+        "name": "Factor Combinations",
+        "tags": [
+            "Array",
+            "Backtracking"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/factor-combinations"
+    },
+    {
+        "number": "256",
+        "name": "Paint House",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/paint-house"
+    },
+    {
+        "number": "259",
+        "name": "3Sum Smaller",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/3sum-smaller"
+    },
+    {
+        "number": "265",
+        "name": "Paint House II",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/paint-house-ii"
+    },
+    {
+        "number": "269",
+        "name": "Alien Dictionary",
+        "tags": [
+            "Array",
+            "String",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Topological Sort"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/alien-dictionary"
+    },
+    {
+        "number": "271",
+        "name": "Encode and Decode Strings",
+        "tags": [
+            "Array",
+            "String",
+            "Design"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/encode-and-decode-strings"
+    },
+    {
+        "number": "280",
+        "name": "Wiggle Sort",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/wiggle-sort"
+    },
+    {
+        "number": "281",
+        "name": "Zigzag Iterator",
+        "tags": [
+            "Array",
+            "Design",
+            "Queue",
+            "Iterator"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/zigzag-iterator"
+    },
+    {
+        "number": "286",
+        "name": "Walls and Gates",
+        "tags": [
+            "Array",
+            "Breadth-First Search",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/walls-and-gates"
+    },
+    {
+        "number": "288",
+        "name": "Unique Word Abbreviation",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Design"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/unique-word-abbreviation"
+    },
+    {
+        "number": "296",
+        "name": "Best Meeting Point",
+        "tags": [
+            "Array",
+            "Math",
+            "Sorting",
+            "Matrix"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/best-meeting-point"
+    },
+    {
+        "number": "302",
+        "name": "Smallest Rectangle Enclosing Black Pixels",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels"
+    },
+    {
+        "number": "305",
+        "name": "Number of Islands II",
+        "tags": [
+            "Array",
+            "Union Find"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/number-of-islands-ii"
+    },
+    {
+        "number": "308",
+        "name": "Range Sum Query 2D - Mutable",
+        "tags": [
+            "Array",
+            "Design",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Matrix"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/range-sum-query-2d-mutable"
+    },
+    {
+        "number": "311",
+        "name": "Sparse Matrix Multiplication",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/sparse-matrix-multiplication"
+    },
+    {
+        "number": "317",
+        "name": "Shortest Distance from All Buildings",
+        "tags": [
+            "Array",
+            "Breadth-First Search",
+            "Matrix"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
+    },
+    {
+        "number": "325",
+        "name": "Maximum Size Subarray Sum Equals k",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k"
+    },
+    {
+        "number": "346",
+        "name": "Moving Average from Data Stream",
+        "tags": [
+            "Array",
+            "Design",
+            "Queue",
+            "Data Stream"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/moving-average-from-data-stream"
+    },
+    {
+        "number": "348",
+        "name": "Design Tic-Tac-Toe",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Design",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-tic-tac-toe"
+    },
+    {
+        "number": "353",
+        "name": "Design Snake Game",
+        "tags": [
+            "Array",
+            "Design",
+            "Queue",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-snake-game"
+    },
+    {
+        "number": "356",
+        "name": "Line Reflection",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/line-reflection"
+    },
+    {
+        "number": "360",
+        "name": "Sort Transformed Array",
+        "tags": [
+            "Array",
+            "Math",
+            "Two Pointers",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/sort-transformed-array"
+    },
+    {
+        "number": "361",
+        "name": "Bomb Enemy",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/bomb-enemy"
+    },
+    {
+        "number": "362",
+        "name": "Design Hit Counter",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Binary Search",
+            "Design",
+            "Queue"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-hit-counter"
+    },
+    {
+        "number": "370",
+        "name": "Range Addition",
+        "tags": [
+            "Array",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/range-addition"
+    },
+    {
+        "number": "379",
+        "name": "Design Phone Directory",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Queue"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-phone-directory"
+    },
+    {
+        "number": "422",
+        "name": "Valid Word Square",
+        "tags": [
+            "Array",
+            "Matrix"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/valid-word-square"
+    },
+    {
+        "number": "425",
+        "name": "Word Squares",
+        "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Trie"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/word-squares"
+    },
+    {
+        "number": "444",
+        "name": "Sequence Reconstruction",
+        "tags": [
+            "Array",
+            "Graph",
+            "Topological Sort"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/sequence-reconstruction"
+    },
+    {
+        "number": "465",
+        "name": "Optimal Account Balancing",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/optimal-account-balancing"
+    },
+    {
+        "number": "484",
+        "name": "Find Permutation",
+        "tags": [
+            "Array",
+            "String",
+            "Stack",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-permutation"
+    },
+    {
+        "number": "487",
+        "name": "Max Consecutive Ones II",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Sliding Window"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/max-consecutive-ones-ii"
+    },
+    {
+        "number": "2031",
+        "name": "Count Subarrays With More Ones Than Zeros",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros"
+    },
+    {
+        "number": "2036",
+        "name": "Maximum Alternating Subarray Sum",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-alternating-subarray-sum"
+    },
+    {
+        "number": "1983",
+        "name": "Widest Pair of Indices With Equal Range Sum",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum"
+    },
+    {
+        "number": "527",
+        "name": "Word Abbreviation",
+        "tags": [
+            "Array",
+            "String",
+            "Greedy",
+            "Trie",
+            "Sorting"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/word-abbreviation"
+    },
+    {
+        "number": "531",
+        "name": "Lonely Pixel I",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/lonely-pixel-i"
+    },
+    {
+        "number": "533",
+        "name": "Lonely Pixel II",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/lonely-pixel-ii"
+    },
+    {
+        "number": "548",
+        "name": "Split Array with Equal Sum",
+        "tags": [
+            "Array",
+            "Prefix Sum"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/split-array-with-equal-sum"
+    },
+    {
+        "number": "1730",
+        "name": "Shortest Path to Get Food",
+        "tags": [
+            "Array",
+            "Breadth-First Search",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/shortest-path-to-get-food"
+    },
+    {
+        "number": "555",
+        "name": "Split Concatenated Strings",
+        "tags": [
+            "Array",
+            "String",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/split-concatenated-strings"
+    },
+    {
+        "number": "562",
+        "name": "Longest Line of Consecutive One in Matrix",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix"
+    },
+    {
+        "number": "568",
+        "name": "Maximum Vacation Days",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/maximum-vacation-days"
+    },
+    {
+        "number": "573",
+        "name": "Squirrel Simulation",
+        "tags": [
+            "Array",
+            "Math"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/squirrel-simulation"
+    },
+    {
+        "number": "582",
+        "name": "Kill Process",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/kill-process"
+    },
+    {
+        "number": "604",
+        "name": "Design Compressed String Iterator",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Design",
+            "Iterator"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/design-compressed-string-iterator"
+    },
+    {
+        "number": "616",
+        "name": "Add Bold Tag in String",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie",
+            "String Matching"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/add-bold-tag-in-string"
+    },
+    {
+        "number": "624",
+        "name": "Maximum Distance in Arrays",
+        "tags": [
+            "Array",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-distance-in-arrays"
+    },
+    {
+        "number": "644",
+        "name": "Maximum Average Subarray II",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Prefix Sum"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/maximum-average-subarray-ii"
+    },
+    {
+        "number": "656",
+        "name": "Coin Path",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/coin-path"
+    },
+    {
+        "number": "666",
+        "name": "Path Sum IV",
+        "tags": [
+            "Array",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/path-sum-iv"
+    },
+    {
+        "number": "683",
+        "name": "K Empty Slots",
+        "tags": [
+            "Array",
+            "Binary Indexed Tree",
+            "Sliding Window",
+            "Ordered Set"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/k-empty-slots"
+    },
+    {
+        "number": "723",
+        "name": "Candy Crush",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Matrix",
+            "Simulation"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/candy-crush"
+    },
+    {
+        "number": "734",
+        "name": "Sentence Similarity",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/sentence-similarity"
+    },
+    {
+        "number": "737",
+        "name": "Sentence Similarity II",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/sentence-similarity-ii"
+    },
+    {
+        "number": "750",
+        "name": "Number Of Corner Rectangles",
+        "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-corner-rectangles"
+    },
+    {
+        "number": "755",
+        "name": "Pour Water",
+        "tags": [
+            "Array",
+            "Simulation"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/pour-water"
+    },
+    {
+        "number": "758",
+        "name": "Bold Words in String",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie",
+            "String Matching"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/bold-words-in-string"
+    },
+    {
+        "number": "759",
+        "name": "Employee Free Time",
+        "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/employee-free-time"
+    },
+    {
+        "number": "760",
+        "name": "Find Anagram Mappings",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/find-anagram-mappings"
+    },
+    {
+        "number": "702",
+        "name": "Search in a Sorted Array of Unknown Size",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size"
+    },
+    {
+        "number": "774",
+        "name": "Minimize Max Distance to Gas Station",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station"
+    },
+    {
+        "number": "1057",
+        "name": "Campus Bikes",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/campus-bikes"
+    },
+    {
+        "number": "1058",
+        "name": "Minimize Rounding Error to Meet Target",
+        "tags": [
+            "Array",
+            "Math",
+            "String",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target"
+    },
+    {
+        "number": "1060",
+        "name": "Missing Element in Sorted Array",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/missing-element-in-sorted-array"
+    },
+    {
+        "number": "1063",
+        "name": "Number of Valid Subarrays",
+        "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/number-of-valid-subarrays"
+    },
+    {
+        "number": "1064",
+        "name": "Fixed Point",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/fixed-point"
+    },
+    {
+        "number": "1066",
+        "name": "Campus Bikes II",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/campus-bikes-ii"
+    },
+    {
+        "number": "1086",
+        "name": "High Five",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/high-five"
+    },
+    {
+        "number": "1065",
+        "name": "Index Pairs of a String",
+        "tags": [
+            "Array",
+            "String",
+            "Trie",
+            "Sorting"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/index-pairs-of-a-string"
+    },
+    {
+        "number": "1085",
+        "name": "Sum of Digits in the Minimum Number",
+        "tags": [
+            "Array",
+            "Math"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/sum-of-digits-in-the-minimum-number"
+    },
+    {
+        "number": "1099",
+        "name": "Two Sum Less Than K",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/two-sum-less-than-k"
+    },
+    {
+        "number": "1101",
+        "name": "The Earliest Moment When Everyone Become Friends",
+        "tags": [
+            "Array",
+            "Union Find"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends"
+    },
+    {
+        "number": "1133",
+        "name": "Largest Unique Number",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/largest-unique-number"
+    },
+    {
+        "number": "1102",
+        "name": "Path With Maximum Minimum Value",
+        "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Heap (Priority Queue)",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/path-with-maximum-minimum-value"
+    },
+    {
+        "number": "1150",
+        "name": "Check If a Number Is Majority Element in a Sorted Array",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array"
+    },
+    {
+        "number": "1151",
+        "name": "Minimum Swaps to Group All 1's Together",
+        "tags": [
+            "Array",
+            "Sliding Window"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together"
+    },
+    {
+        "number": "1152",
+        "name": "Analyze User Website Visit Pattern",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern"
+    },
+    {
+        "number": "1121",
+        "name": "Divide Array Into Increasing Sequences",
+        "tags": [
+            "Array",
+            "Greedy"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/divide-array-into-increasing-sequences"
+    },
+    {
+        "number": "1167",
+        "name": "Minimum Cost to Connect Sticks",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Heap (Priority Queue)"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-cost-to-connect-sticks"
+    },
+    {
+        "number": "1181",
+        "name": "Before and After Puzzle",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/before-and-after-puzzle"
+    },
+    {
+        "number": "1182",
+        "name": "Shortest Distance to Target Color",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/shortest-distance-to-target-color"
+    },
+    {
+        "number": "1196",
+        "name": "How Many Apples Can You Put into the Basket",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket"
+    },
+    {
+        "number": "1198",
+        "name": "Find Smallest Common Element in All Rows",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Binary Search",
+            "Matrix",
+            "Counting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-smallest-common-element-in-all-rows"
+    },
+    {
+        "number": "1213",
+        "name": "Intersection of Three Sorted Arrays",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Binary Search",
+            "Counting"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/intersection-of-three-sorted-arrays"
+    },
+    {
+        "number": "1228",
+        "name": "Missing Number In Arithmetic Progression",
+        "tags": [
+            "Array",
+            "Math"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/missing-number-in-arithmetic-progression"
+    },
+    {
+        "number": "1229",
+        "name": "Meeting Scheduler",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/meeting-scheduler"
+    },
+    {
+        "number": "1243",
+        "name": "Array Transformation",
+        "tags": [
+            "Array",
+            "Simulation"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/array-transformation"
+    },
+    {
+        "number": "1257",
+        "name": "Smallest Common Region",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/smallest-common-region"
+    },
+    {
+        "number": "1258",
+        "name": "Synonymous Sentences",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Backtracking",
+            "Union Find"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/synonymous-sentences"
+    },
+    {
+        "number": "1231",
+        "name": "Divide Chocolate",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/divide-chocolate"
+    },
+    {
+        "number": "1272",
+        "name": "Remove Interval",
+        "tags": [
+            "Array"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/remove-interval"
+    },
+    {
+        "number": "1246",
+        "name": "Palindrome Removal",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/palindrome-removal"
+    },
+    {
+        "number": "1274",
+        "name": "Number of Ships in a Rectangle",
+        "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Interactive"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/number-of-ships-in-a-rectangle"
+    },
+    {
+        "number": "1176",
+        "name": "Diet Plan Performance",
+        "tags": [
+            "Array",
+            "Sliding Window"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/diet-plan-performance"
+    },
+    {
+        "number": "1427",
+        "name": "Perform String Shifts",
+        "tags": [
+            "Array",
+            "Math",
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/perform-string-shifts"
+    },
+    {
+        "number": "1429",
+        "name": "First Unique Number",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Design",
+            "Queue",
+            "Data Stream"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/first-unique-number"
+    },
+    {
+        "number": "1428",
+        "name": "Leftmost Column with at Least a One",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one"
+    },
+    {
+        "number": "1618",
+        "name": "Maximum Font to Fit a Sentence in a Screen",
+        "tags": [
+            "Array",
+            "String",
+            "Binary Search",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen"
+    },
+    {
+        "number": "1426",
+        "name": "Counting Elements",
+        "tags": [
+            "Array",
+            "Hash Table"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/counting-elements"
+    },
+    {
+        "number": "2229",
+        "name": "Check if an Array Is Consecutive",
+        "tags": [
+            "Array"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/check-if-an-array-is-consecutive"
+    },
+    {
+        "number": "1533",
+        "name": "Find the Index of the Large Integer",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-the-index-of-the-large-integer"
+    },
+    {
+        "number": "1538",
+        "name": "Guess the Majority in a Hidden Array",
+        "tags": [
+            "Array",
+            "Math",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/guess-the-majority-in-a-hidden-array"
+    },
+    {
+        "number": "1564",
+        "name": "Put Boxes Into the Warehouse I",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/put-boxes-into-the-warehouse-i"
+    },
+    {
+        "number": "1570",
+        "name": "Dot Product of Two Sparse Vectors",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Design"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors"
+    },
+    {
+        "number": "1580",
+        "name": "Put Boxes Into the Warehouse II",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/put-boxes-into-the-warehouse-ii"
+    },
+    {
+        "number": "1714",
+        "name": "Sum Of Special Evenly-Spaced Elements In Array",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array"
+    },
+    {
+        "number": "1708",
+        "name": "Largest Subarray Length K",
+        "tags": [
+            "Array",
+            "Greedy"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/largest-subarray-length-k"
+    },
+    {
+        "number": "1746",
+        "name": "Maximum Subarray Sum After One Operation",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation"
+    },
+    {
+        "number": "1756",
+        "name": "Design Most Recently Used Queue",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Design",
+            "Binary Indexed Tree",
+            "Ordered Set"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-most-recently-used-queue"
+    },
+    {
+        "number": "1762",
+        "name": "Buildings With an Ocean View",
+        "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/buildings-with-an-ocean-view"
+    },
+    {
+        "number": "1772",
+        "name": "Sort Features by Popularity",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/sort-features-by-popularity"
+    },
+    {
+        "number": "1788",
+        "name": "Maximize the Beauty of the Garden",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Prefix Sum"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/maximize-the-beauty-of-the-garden"
+    },
+    {
+        "number": "1820",
+        "name": "Maximum Number of Accepted Invitations",
+        "tags": [
+            "Array",
+            "Backtracking",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-number-of-accepted-invitations"
+    },
+    {
+        "number": "1989",
+        "name": "Maximum Number of People That Can Be Caught in Tag",
+        "tags": [
+            "Array",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag"
+    },
+    {
+        "number": "1826",
+        "name": "Faulty Sensor",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/faulty-sensor"
+    },
+    {
+        "number": "1852",
+        "name": "Distinct Numbers in Each Subarray",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/distinct-numbers-in-each-subarray"
+    },
+    {
+        "number": "1868",
+        "name": "Product of Two Run-Length Encoded Arrays",
+        "tags": [
+            "Array",
+            "Two Pointers"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays"
+    },
+    {
+        "number": "1874",
+        "name": "Minimize Product Sum of Two Arrays",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimize-product-sum-of-two-arrays"
+    },
+    {
+        "number": "1885",
+        "name": "Count Pairs in Two Arrays",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-pairs-in-two-arrays"
+    },
+    {
+        "number": "1891",
+        "name": "Cutting Ribbons",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/cutting-ribbons"
+    },
+    {
+        "number": "2297",
+        "name": "Jump Game VIII",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Graph",
+            "Monotonic Stack",
+            "Shortest Path"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/jump-game-viii"
+    },
+    {
+        "number": "1908",
+        "name": "Game of Nim",
+        "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Brainteaser",
+            "Game Theory"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/game-of-nim"
+    },
+    {
+        "number": "2307",
+        "name": "Check for Contradictions in Equations",
+        "tags": [
+            "Array",
+            "Depth-First Search",
+            "Union Find",
+            "Graph"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/check-for-contradictions-in-equations"
+    },
+    {
+        "number": "1918",
+        "name": "Kth Smallest Subarray Sum",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/kth-smallest-subarray-sum"
+    },
+    {
+        "number": "1940",
+        "name": "Longest Common Subsequence Between Sorted Arrays",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays"
+    },
+    {
+        "number": "1950",
+        "name": "Maximum of Minimum Values in All Subarrays",
+        "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays"
+    },
+    {
+        "number": "1956",
+        "name": "Minimum Time For K Virus Variants to Spread",
+        "tags": [
+            "Array",
+            "Math",
+            "Binary Search",
+            "Geometry",
+            "Enumeration"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread"
+    },
+    {
+        "number": "1924",
+        "name": "Erect the Fence II",
+        "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/erect-the-fence-ii"
+    },
+    {
+        "number": "2021",
+        "name": "Brightest Position on Street",
+        "tags": [
+            "Array",
+            "Prefix Sum",
+            "Ordered Set"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/brightest-position-on-street"
+    },
+    {
+        "number": "2052",
+        "name": "Minimum Cost to Separate Sentence Into Rows",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows"
+    },
+    {
+        "number": "1966",
+        "name": "Binary Searchable Numbers in an Unsorted Array",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array"
+    },
+    {
+        "number": "2015",
+        "name": "Average Height of Buildings in Each Segment",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/average-height-of-buildings-in-each-segment"
+    },
+    {
+        "number": "2061",
+        "name": "Number of Spaces Cleaning Robot Cleaned",
+        "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned"
+    },
+    {
+        "number": "2098",
+        "name": "Subsequence of Size K With the Largest Even Sum",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum"
+    },
+    {
+        "number": "2107",
+        "name": "Number of Unique Flavors After Sharing K Candies",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies"
+    },
+    {
+        "number": "2113",
+        "name": "Elements in Array After Removing and Replacing Elements",
+        "tags": [
+            "Array"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements"
+    },
+    {
+        "number": "2123",
+        "name": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "tags": [
+            "Array",
+            "Graph",
+            "Matrix"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix"
+    },
+    {
+        "number": "2128",
+        "name": "Remove All Ones With Row and Column Flips",
+        "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips"
+    },
+    {
+        "number": "2137",
+        "name": "Pour Water Between Buckets to Make Water Levels Equal",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal"
+    },
+    {
+        "number": "2143",
+        "name": "Choose Numbers From Two Arrays in Range",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range"
+    },
+    {
+        "number": "2152",
+        "name": "Minimum Number of Lines to Cover Points",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Geometry",
+            "Bitmask"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points"
+    },
+    {
+        "number": "2158",
+        "name": "Amount of New Area Painted Each Day",
+        "tags": [
+            "Array",
+            "Segment Tree",
+            "Ordered Set"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/amount-of-new-area-painted-each-day"
+    },
+    {
+        "number": "2174",
+        "name": "Remove All Ones With Row and Column Flips II",
+        "tags": [
+            "Array",
+            "Bit Manipulation",
+            "Breadth-First Search",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii"
+    },
+    {
+        "number": "2184",
+        "name": "Number of Ways to Build Sturdy Brick Wall",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Bitmask"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall"
+    },
+    {
+        "number": "2214",
+        "name": "Minimum Health to Beat Game",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-health-to-beat-game"
+    },
+    {
+        "number": "2219",
+        "name": "Maximum Sum Score of Array",
+        "tags": [
+            "Array",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-sum-score-of-array"
+    },
+    {
+        "number": "2237",
+        "name": "Count Positions on Street With Required Brightness",
+        "tags": [
+            "Array",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-positions-on-street-with-required-brightness"
+    },
+    {
+        "number": "2268",
+        "name": "Minimum Number of Keypresses",
+        "tags": [
+            "Array",
+            "String",
+            "Greedy",
+            "Sorting",
+            "Counting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-number-of-keypresses"
+    },
+    {
+        "number": "2277",
+        "name": "Closest Node to Path in Tree",
+        "tags": [
+            "Array",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/closest-node-to-path-in-tree"
+    },
+    {
+        "number": "2282",
+        "name": "Number of People That Can Be Seen in a Grid",
+        "tags": [
+            "Array",
+            "Stack",
+            "Matrix",
+            "Monotonic Stack"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid"
+    },
+    {
+        "number": "2291",
+        "name": "Maximum Profit From Trading Stocks",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-profit-from-trading-stocks"
+    },
+    {
+        "number": "2323",
+        "name": "Find Minimum Time to Finish All Jobs II",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii"
+    },
+    {
+        "number": "2340",
+        "name": "Minimum Adjacent Swaps to Make a Valid Array",
+        "tags": [
+            "Array",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array"
+    },
+    {
+        "number": "2345",
+        "name": "Finding the Number of Visible Mountains",
+        "tags": [
+            "Array",
+            "Stack",
+            "Sorting",
+            "Monotonic Stack"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/finding-the-number-of-visible-mountains"
+    },
+    {
+        "number": "2459",
+        "name": "Sort Array by Moving Items to Empty Space",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space"
+    },
+    {
+        "number": "2355",
+        "name": "Maximum Number of Books You Can Take",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/maximum-number-of-books-you-can-take"
+    },
+    {
+        "number": "2361",
+        "name": "Minimum Costs Using the Train Line",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-costs-using-the-train-line"
+    },
+    {
+        "number": "2371",
+        "name": "Minimize Maximum Value in a Grid",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Union Find",
+            "Graph",
+            "Topological Sort",
+            "Sorting",
+            "Matrix"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimize-maximum-value-in-a-grid"
+    },
+    {
+        "number": "2387",
+        "name": "Median of a Row Wise Sorted Matrix",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix"
+    },
+    {
+        "number": "2393",
+        "name": "Count Strictly Increasing Subarrays",
+        "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-strictly-increasing-subarrays"
+    },
+    {
+        "number": "2403",
+        "name": "Minimum Time to Kill All Monsters",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Bitmask"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters"
+    },
+    {
+        "number": "2647",
+        "name": "Color the Triangle Red",
+        "tags": [
+            "Array",
+            "Math"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/color-the-triangle-red"
+    },
+    {
+        "number": "2408",
+        "name": "Design SQL",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Design"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-sql"
+    },
+    {
+        "number": "2422",
+        "name": "Merge Operations to Turn Array Into a Palindrome",
+        "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome"
+    },
+    {
+        "number": "2431",
+        "name": "Maximize Total Tastiness of Purchased Fruits",
+        "tags": [
+            "Array",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits"
+    },
+    {
+        "number": "2436",
+        "name": "Minimum Split Into Subarrays With GCD Greater Than One",
+        "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Greedy",
+            "Number Theory"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one"
+    },
+    {
+        "number": "2464",
+        "name": "Minimum Subarrays in a Valid Split",
+        "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Number Theory"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-subarrays-in-a-valid-split"
+    },
+    {
+        "number": "2473",
+        "name": "Minimum Cost to Buy Apples",
+        "tags": [
+            "Array",
+            "Graph",
+            "Heap (Priority Queue)",
+            "Shortest Path"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-cost-to-buy-apples"
+    },
+    {
+        "number": "2534",
+        "name": "Time Taken to Cross the Door",
+        "tags": [
+            "Array",
+            "Queue",
+            "Simulation"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/time-taken-to-cross-the-door"
+    },
+    {
+        "number": "2495",
+        "name": "Number of Subarrays Having Even Product",
+        "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-subarrays-having-even-product"
+    },
+    {
+        "number": "2505",
+        "name": "Bitwise OR of All Subsequence Sums",
+        "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation",
+            "Brainteaser"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums"
+    },
+    {
+        "number": "2510",
+        "name": "Check if There is a Path With Equal Number of 0's And 1's",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s"
+    },
+    {
+        "number": "2519",
+        "name": "Count the Number of K-Big Indices",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/count-the-number-of-k-big-indices"
+    },
+    {
+        "number": "2604",
+        "name": "Minimum Time to Eat All Grains",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-time-to-eat-all-grains"
+    },
+    {
+        "number": "2524",
+        "name": "Maximum Frequency Score of a Subarray",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Sliding Window"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/maximum-frequency-score-of-a-subarray"
+    },
+    {
+        "number": "2599",
+        "name": "Make the Prefix Sum Non-negative",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Heap (Priority Queue)"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/make-the-prefix-sum-non-negative"
+    },
+    {
+        "number": "2590",
+        "name": "Design a Todo List",
+        "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Design",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-a-todo-list"
+    },
+    {
+        "number": "2548",
+        "name": "Maximum Price to Fill a Bag",
+        "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-price-to-fill-a-bag"
+    },
+    {
+        "number": "2557",
+        "name": "Maximum Number of Integers to Choose From a Range II",
+        "tags": [
+            "Array",
+            "Binary Search",
+            "Greedy",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii"
+    },
+    {
+        "number": "2613",
+        "name": "Beautiful Pairs",
+        "tags": [
+            "Array",
+            "Math",
+            "Divide and Conquer",
+            "Geometry",
+            "Sorting",
+            "Ordered Set"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/beautiful-pairs"
+    },
+    {
+        "number": "2702",
+        "name": "Minimum Operations to Make Numbers Non-positive",
+        "tags": [
+            "Array",
+            "Binary Search"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive"
+    },
+    {
+        "number": "2638",
+        "name": "Count the Number of K-Free Subsets",
+        "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-the-number-of-k-free-subsets"
+    },
+    {
+        "number": "2655",
+        "name": "Find Maximal Uncovered Ranges",
+        "tags": [
+            "Array",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-maximal-uncovered-ranges"
+    },
+    {
+        "number": "2664",
+        "name": "The Knight\u2019s Tour",
+        "tags": [
+            "Array",
+            "Recursion",
+            "Matrix"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-knights-tour"
+    },
+    {
+        "number": "157",
+        "name": "Read N Characters Given Read4",
+        "tags": [
+            "String",
+            "Simulation",
+            "Interactive"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/read-n-characters-given-read4"
+    },
+    {
+        "number": "158",
+        "name": "Read N Characters Given read4 II - Call Multiple Times",
+        "tags": [
+            "String",
+            "Simulation",
+            "Interactive"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times"
+    },
+    {
+        "number": "159",
+        "name": "Longest Substring with At Most Two Distinct Characters",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters"
+    },
+    {
+        "number": "161",
+        "name": "One Edit Distance",
+        "tags": [
+            "Two Pointers",
+            "String"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/one-edit-distance"
+    },
+    {
+        "number": "186",
+        "name": "Reverse Words in a String II",
+        "tags": [
+            "Two Pointers",
+            "String"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string-ii"
+    },
+    {
+        "number": "246",
+        "name": "Strobogrammatic Number",
+        "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/strobogrammatic-number"
+    },
+    {
+        "number": "266",
+        "name": "Palindrome Permutation",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/palindrome-permutation"
+    },
+    {
+        "number": "267",
+        "name": "Palindrome Permutation II",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/palindrome-permutation-ii"
+    },
+    {
+        "number": "291",
+        "name": "Word Pattern II",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/word-pattern-ii"
+    },
+    {
+        "number": "293",
+        "name": "Flip Game",
+        "tags": [
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/flip-game"
+    },
+    {
+        "number": "320",
+        "name": "Generalized Abbreviation",
+        "tags": [
+            "String",
+            "Backtracking",
+            "Bit Manipulation"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/generalized-abbreviation"
+    },
+    {
+        "number": "340",
+        "name": "Longest Substring with At Most K Distinct Characters",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
+    },
+    {
+        "number": "358",
+        "name": "Rearrange String k Distance Apart",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Counting"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/rearrange-string-k-distance-apart"
+    },
+    {
+        "number": "408",
+        "name": "Valid Word Abbreviation",
+        "tags": [
+            "Two Pointers",
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/valid-word-abbreviation"
+    },
+    {
+        "number": "411",
+        "name": "Minimum Unique Word Abbreviation",
+        "tags": [
+            "String",
+            "Backtracking",
+            "Bit Manipulation"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-unique-word-abbreviation"
+    },
+    {
+        "number": "418",
+        "name": "Sentence Screen Fitting",
+        "tags": [
+            "String",
+            "Dynamic Programming",
+            "Simulation"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/sentence-screen-fitting"
+    },
+    {
+        "number": "439",
+        "name": "Ternary Expression Parser",
+        "tags": [
+            "String",
+            "Stack",
+            "Recursion"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/ternary-expression-parser"
+    },
+    {
+        "number": "471",
+        "name": "Encode String with Shortest Length",
+        "tags": [
+            "String",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/encode-string-with-shortest-length"
+    },
+    {
+        "number": "536",
+        "name": "Construct Binary Tree from String",
+        "tags": [
+            "String",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-string"
+    },
+    {
+        "number": "544",
+        "name": "Output Contest Matches",
+        "tags": [
+            "String",
+            "Recursion",
+            "Simulation"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/output-contest-matches"
+    },
+    {
+        "number": "588",
+        "name": "Design In-Memory File System",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Design",
+            "Trie"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/design-in-memory-file-system"
+    },
+    {
+        "number": "635",
+        "name": "Design Log Storage System",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Design",
+            "Ordered Set"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-log-storage-system"
+    },
+    {
+        "number": "642",
+        "name": "Design Search Autocomplete System",
+        "tags": [
+            "String",
+            "Design",
+            "Trie",
+            "Data Stream"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/design-search-autocomplete-system"
+    },
+    {
+        "number": "681",
+        "name": "Next Closest Time",
+        "tags": [
+            "String",
+            "Enumeration"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/next-closest-time"
+    },
+    {
+        "number": "727",
+        "name": "Minimum Window Subsequence",
+        "tags": [
+            "String",
+            "Dynamic Programming",
+            "Sliding Window"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-window-subsequence"
+    },
+    {
+        "number": "751",
+        "name": "IP to CIDR",
+        "tags": [
+            "String",
+            "Bit Manipulation"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/ip-to-cidr"
+    },
+    {
+        "number": "428",
+        "name": "Serialize and Deserialize N-ary Tree",
+        "tags": [
+            "String",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree"
+    },
+    {
+        "number": "772",
+        "name": "Basic Calculator III",
+        "tags": [
+            "Math",
+            "String",
+            "Stack",
+            "Recursion"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/basic-calculator-iii"
+    },
+    {
+        "number": "800",
+        "name": "Similar RGB Color",
+        "tags": [
+            "Math",
+            "String",
+            "Enumeration"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/similar-rgb-color"
+    },
+    {
+        "number": "1055",
+        "name": "Shortest Way to Form String",
+        "tags": [
+            "Two Pointers",
+            "String",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/shortest-way-to-form-string"
+    },
+    {
+        "number": "1062",
+        "name": "Longest Repeating Substring",
+        "tags": [
+            "String",
+            "Binary Search",
+            "Dynamic Programming",
+            "Rolling Hash",
+            "Suffix Array",
+            "Hash Function"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/longest-repeating-substring"
+    },
+    {
+        "number": "1087",
+        "name": "Brace Expansion",
+        "tags": [
+            "String",
+            "Backtracking",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/brace-expansion"
+    },
+    {
+        "number": "1100",
+        "name": "Find K-Length Substrings With No Repeated Characters",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters"
+    },
+    {
+        "number": "1119",
+        "name": "Remove Vowels from a String",
+        "tags": [
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/remove-vowels-from-a-string"
+    },
+    {
+        "number": "1165",
+        "name": "Single-Row Keyboard",
+        "tags": [
+            "Hash Table",
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/single-row-keyboard"
+    },
+    {
+        "number": "1153",
+        "name": "String Transforms Into Another String",
+        "tags": [
+            "Hash Table",
+            "String"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/string-transforms-into-another-string"
+    },
+    {
+        "number": "1166",
+        "name": "Design File System",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Design",
+            "Trie"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-file-system"
+    },
+    {
+        "number": "1180",
+        "name": "Count Substrings with Only One Distinct Letter",
+        "tags": [
+            "Math",
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter"
+    },
+    {
+        "number": "1216",
+        "name": "Valid Palindrome III",
+        "tags": [
+            "String",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/valid-palindrome-iii"
+    },
+    {
+        "number": "1256",
+        "name": "Encode Number",
+        "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/encode-number"
+    },
+    {
+        "number": "1271",
+        "name": "Hexspeak",
+        "tags": [
+            "Math",
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/hexspeak"
+    },
+    {
+        "number": "1236",
+        "name": "Web Crawler",
+        "tags": [
+            "String",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/web-crawler"
+    },
+    {
+        "number": "1554",
+        "name": "Strings Differ by One Character",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Rolling Hash",
+            "Hash Function"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/strings-differ-by-one-character"
+    },
+    {
+        "number": "1597",
+        "name": "Build Binary Expression Tree From Infix Expression",
+        "tags": [
+            "String",
+            "Stack",
+            "Tree",
+            "Binary Tree"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression"
+    },
+    {
+        "number": "1682",
+        "name": "Longest Palindromic Subsequence II",
+        "tags": [
+            "String",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/longest-palindromic-subsequence-ii"
+    },
+    {
+        "number": "1698",
+        "name": "Number of Distinct Substrings in a String",
+        "tags": [
+            "String",
+            "Trie",
+            "Rolling Hash",
+            "Suffix Array",
+            "Hash Function"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string"
+    },
+    {
+        "number": "1794",
+        "name": "Count Pairs of Equal Substrings With Minimum Difference",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference"
+    },
+    {
+        "number": "1804",
+        "name": "Implement Trie II (Prefix Tree)",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Design",
+            "Trie"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/implement-trie-ii-prefix-tree"
+    },
+    {
+        "number": "1842",
+        "name": "Next Palindrome Using Same Digits",
+        "tags": [
+            "Two Pointers",
+            "String"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/next-palindrome-using-same-digits"
+    },
+    {
+        "number": "1933",
+        "name": "Check if String Is Decomposable Into Value-Equal Substrings",
+        "tags": [
+            "String"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings"
+    },
+    {
+        "number": "2067",
+        "name": "Number of Equal Count Substrings",
+        "tags": [
+            "String",
+            "Counting",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-equal-count-substrings"
+    },
+    {
+        "number": "2083",
+        "name": "Substrings That Begin and End With the Same Letter",
+        "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Counting",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter"
+    },
+    {
+        "number": "2168",
+        "name": "Unique Substrings With Equal Digit Frequency",
+        "tags": [
+            "Hash Table",
+            "String",
+            "Rolling Hash",
+            "Counting",
+            "Hash Function"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency"
+    },
+    {
+        "number": "2330",
+        "name": "Valid Palindrome IV",
+        "tags": [
+            "Two Pointers",
+            "String"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/valid-palindrome-iv"
+    },
+    {
+        "number": "2450",
+        "name": "Number of Distinct Binary Strings After Applying Operations",
+        "tags": [
+            "Math",
+            "String"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations"
+    },
+    {
+        "number": "2489",
+        "name": "Number of Substrings With Fixed Ratio",
+        "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Prefix Sum"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-substrings-with-fixed-ratio"
+    },
+    {
+        "number": "2539",
+        "name": "Count the Number of Good Subsequences",
+        "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Combinatorics",
+            "Counting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+    },
+    {
+        "number": "314",
+        "name": "Binary Tree Vertical Order Traversal",
+        "tags": [
+            "Hash Table",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal"
+    },
+    {
+        "number": "359",
+        "name": "Logger Rate Limiter",
+        "tags": [
+            "Hash Table",
+            "Design"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/logger-rate-limiter"
+    },
+    {
+        "number": "694",
+        "name": "Number of Distinct Islands",
+        "tags": [
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Hash Function"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-distinct-islands"
+    },
+    {
+        "number": "711",
+        "name": "Number of Distinct Islands II",
+        "tags": [
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Hash Function"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/number-of-distinct-islands-ii"
+    },
+    {
+        "number": "1244",
+        "name": "Design A Leaderboard",
+        "tags": [
+            "Hash Table",
+            "Design",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-a-leaderboard"
+    },
+    {
+        "number": "1485",
+        "name": "Clone Binary Tree With Random Pointer",
+        "tags": [
+            "Hash Table",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/clone-binary-tree-with-random-pointer"
+    },
+    {
+        "number": "1490",
+        "name": "Clone N-ary Tree",
+        "tags": [
+            "Hash Table",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/clone-n-ary-tree"
+    },
+    {
+        "number": "1500",
+        "name": "Design a File Sharing System",
+        "tags": [
+            "Hash Table",
+            "Design",
+            "Heap (Priority Queue)",
+            "Data Stream"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-a-file-sharing-system"
+    },
+    {
+        "number": "1506",
+        "name": "Find Root of N-Ary Tree",
+        "tags": [
+            "Hash Table",
+            "Bit Manipulation",
+            "Tree",
+            "Depth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-root-of-n-ary-tree"
+    },
+    {
+        "number": "1650",
+        "name": "Lowest Common Ancestor of a Binary Tree III",
+        "tags": [
+            "Hash Table",
+            "Tree",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii"
+    },
+    {
+        "number": "1660",
+        "name": "Correct a Binary Tree",
+        "tags": [
+            "Hash Table",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/correct-a-binary-tree"
+    },
+    {
+        "number": "1740",
+        "name": "Find Distance in a Binary Tree",
+        "tags": [
+            "Hash Table",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-distance-in-a-binary-tree"
+    },
+    {
+        "number": "1836",
+        "name": "Remove Duplicates From an Unsorted Linked List",
+        "tags": [
+            "Hash Table",
+            "Linked List"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list"
+    },
+    {
+        "number": "2254",
+        "name": "Design Video Sharing Platform",
+        "tags": [
+            "Hash Table",
+            "Stack",
+            "Design",
+            "Ordered Set"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/design-video-sharing-platform"
+    },
+    {
+        "number": "276",
+        "name": "Paint Fence",
+        "tags": [
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/paint-fence"
+    },
+    {
+        "number": "294",
+        "name": "Flip Game II",
+        "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Backtracking",
+            "Memoization",
+            "Game Theory"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/flip-game-ii"
+    },
+    {
+        "number": "333",
+        "name": "Largest BST Subtree",
+        "tags": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/largest-bst-subtree"
+    },
+    {
+        "number": "351",
+        "name": "Android Unlock Patterns",
+        "tags": [
+            "Dynamic Programming",
+            "Backtracking"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/android-unlock-patterns"
+    },
+    {
+        "number": "634",
+        "name": "Find the Derangement of An Array",
+        "tags": [
+            "Math",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-the-derangement-of-an-array"
+    },
+    {
+        "number": "651",
+        "name": "4 Keys Keyboard",
+        "tags": [
+            "Math",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/4-keys-keyboard"
+    },
+    {
+        "number": "1067",
+        "name": "Digit Count in Range",
+        "tags": [
+            "Math",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/digit-count-in-range"
+    },
+    {
+        "number": "1230",
+        "name": "Toss Strange Coins",
+        "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Probability and Statistics"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/toss-strange-coins"
+    },
+    {
+        "number": "1259",
+        "name": "Handshakes That Don't Cross",
+        "tags": [
+            "Math",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/handshakes-that-dont-cross"
+    },
+    {
+        "number": "2189",
+        "name": "Number of Ways to Build House of Cards",
+        "tags": [
+            "Math",
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-ways-to-build-house-of-cards"
+    },
+    {
+        "number": "2263",
+        "name": "Make Array Non-decreasing or Non-increasing",
+        "tags": [
+            "Dynamic Programming",
+            "Greedy"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing"
+    },
+    {
+        "number": "1548",
+        "name": "The Most Similar Path in a Graph",
+        "tags": [
+            "Dynamic Programming",
+            "Graph"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/the-most-similar-path-in-a-graph"
+    },
+    {
+        "number": "1692",
+        "name": "Count Ways to Distribute Candies",
+        "tags": [
+            "Dynamic Programming"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/count-ways-to-distribute-candies"
+    },
+    {
+        "number": "2247",
+        "name": "Maximum Cost of Trip With K Highways",
+        "tags": [
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Graph",
+            "Bitmask"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways"
+    },
+    {
+        "number": "2005",
+        "name": "Subtree Removal Game with Fibonacci Tree",
+        "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Tree",
+            "Binary Tree",
+            "Game Theory"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree"
+    },
+    {
+        "number": "2313",
+        "name": "Minimum Flips in Binary Tree to Get Result",
+        "tags": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result"
+    },
+    {
+        "number": "2378",
+        "name": "Choose Edges to Maximize Score in a Tree",
+        "tags": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree"
+    },
+    {
+        "number": "2533",
+        "name": "Number of Good Binary Strings",
+        "tags": [
+            "Dynamic Programming"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-good-binary-strings"
+    },
+    {
+        "number": "369",
+        "name": "Plus One Linked List",
+        "tags": [
+            "Linked List",
+            "Math"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/plus-one-linked-list"
+    },
+    {
+        "number": "469",
+        "name": "Convex Polygon",
+        "tags": [
+            "Math",
+            "Geometry"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/convex-polygon"
+    },
+    {
+        "number": "625",
+        "name": "Minimum Factorization",
+        "tags": [
+            "Math",
+            "Greedy"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-factorization"
+    },
+    {
+        "number": "660",
+        "name": "Remove 9",
+        "tags": [
+            "Math"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/remove-9"
+    },
+    {
+        "number": "1056",
+        "name": "Confusing Number",
+        "tags": [
+            "Math"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/confusing-number"
+    },
+    {
+        "number": "1088",
+        "name": "Confusing Number II",
+        "tags": [
+            "Math",
+            "Backtracking"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/confusing-number-ii"
+    },
+    {
+        "number": "1118",
+        "name": "Number of Days in a Month",
+        "tags": [
+            "Math"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/number-of-days-in-a-month"
+    },
+    {
+        "number": "1134",
+        "name": "Armstrong Number",
+        "tags": [
+            "Math"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/armstrong-number"
+    },
+    {
+        "number": "1199",
+        "name": "Minimum Time to Build Blocks",
+        "tags": [
+            "Math",
+            "Greedy",
+            "Heap (Priority Queue)"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/minimum-time-to-build-blocks"
+    },
+    {
+        "number": "2198",
+        "name": "Number of Single Divisor Triplets",
+        "tags": [
+            "Math"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-single-divisor-triplets"
+    },
+    {
+        "number": "1628",
+        "name": "Design an Expression Tree With Evaluate Function",
+        "tags": [
+            "Math",
+            "Stack",
+            "Tree",
+            "Design",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function"
+    },
+    {
+        "number": "1634",
+        "name": "Add Two Polynomials Represented as Linked Lists",
+        "tags": [
+            "Linked List",
+            "Math",
+            "Two Pointers"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists"
+    },
+    {
+        "number": "1999",
+        "name": "Smallest Greater Multiple Made of Two Digits",
+        "tags": [
+            "Math",
+            "Enumeration"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits"
+    },
+    {
+        "number": "2417",
+        "name": "Closest Fair Integer",
+        "tags": [
+            "Math",
+            "Enumeration"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/closest-fair-integer"
+    },
+    {
+        "number": "2046",
+        "name": "Sort Linked List Already Sorted Using Absolute Values",
+        "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Sorting"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values"
+    },
+    {
+        "number": "277",
+        "name": "Find the Celebrity",
+        "tags": [
+            "Two Pointers",
+            "Greedy",
+            "Graph",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-the-celebrity"
+    },
+    {
+        "number": "1183",
+        "name": "Maximum Number of Ones",
+        "tags": [
+            "Greedy",
+            "Heap (Priority Queue)"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/maximum-number-of-ones"
+    },
+    {
+        "number": "156",
+        "name": "Binary Tree Upside Down",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/binary-tree-upside-down"
+    },
+    {
+        "number": "250",
+        "name": "Count Univalue Subtrees",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-univalue-subtrees"
+    },
+    {
+        "number": "261",
+        "name": "Graph Valid Tree",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Graph"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/graph-valid-tree"
+    },
+    {
+        "number": "270",
+        "name": "Closest Binary Search Tree Value",
+        "tags": [
+            "Binary Search",
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/closest-binary-search-tree-value"
+    },
+    {
+        "number": "272",
+        "name": "Closest Binary Search Tree Value II",
+        "tags": [
+            "Two Pointers",
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Heap (Priority Queue)",
+            "Binary Tree"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/closest-binary-search-tree-value-ii"
+    },
+    {
+        "number": "285",
+        "name": "Inorder Successor in BST",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/inorder-successor-in-bst"
+    },
+    {
+        "number": "298",
+        "name": "Binary Tree Longest Consecutive Sequence",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence"
+    },
+    {
+        "number": "323",
+        "name": "Number of Connected Components in an Undirected Graph",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Graph"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
+    },
+    {
+        "number": "339",
+        "name": "Nested List Weight Sum",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/nested-list-weight-sum"
+    },
+    {
+        "number": "364",
+        "name": "Nested List Weight Sum II",
+        "tags": [
+            "Stack",
+            "Depth-First Search",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/nested-list-weight-sum-ii"
+    },
+    {
+        "number": "366",
+        "name": "Find Leaves of Binary Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-leaves-of-binary-tree"
+    },
+    {
+        "number": "490",
+        "name": "The Maze",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-maze"
+    },
+    {
+        "number": "499",
+        "name": "The Maze III",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Heap (Priority Queue)",
+            "Shortest Path"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/the-maze-iii"
+    },
+    {
+        "number": "505",
+        "name": "The Maze II",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Heap (Priority Queue)",
+            "Shortest Path"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-maze-ii"
+    },
+    {
+        "number": "1059",
+        "name": "All Paths from Source Lead to Destination",
+        "tags": [
+            "Depth-First Search",
+            "Graph"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination"
+    },
+    {
+        "number": "545",
+        "name": "Boundary of Binary Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/boundary-of-binary-tree"
+    },
+    {
+        "number": "549",
+        "name": "Binary Tree Longest Consecutive Sequence II",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii"
+    },
+    {
+        "number": "663",
+        "name": "Equal Tree Partition",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/equal-tree-partition"
+    },
+    {
+        "number": "742",
+        "name": "Closest Leaf in a Binary Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree"
+    },
+    {
+        "number": "426",
+        "name": "Convert Binary Search Tree to Sorted Doubly Linked List",
+        "tags": [
+            "Linked List",
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree",
+            "Doubly-Linked List"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list"
+    },
+    {
+        "number": "431",
+        "name": "Encode N-ary Tree to Binary Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Design",
+            "Binary Tree"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree"
+    },
+    {
+        "number": "1120",
+        "name": "Maximum Average Subtree",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-average-subtree"
+    },
+    {
+        "number": "1214",
+        "name": "Two Sum BSTs",
+        "tags": [
+            "Two Pointers",
+            "Binary Search",
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/two-sum-bsts"
+    },
+    {
+        "number": "1245",
+        "name": "Tree Diameter",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Topological Sort"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/tree-diameter"
+    },
+    {
+        "number": "1273",
+        "name": "Delete Tree Nodes",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/delete-tree-nodes"
+    },
+    {
+        "number": "2204",
+        "name": "Distance to a Cycle in Undirected Graph",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Graph"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph"
+    },
+    {
+        "number": "1242",
+        "name": "Web Crawler Multithreaded",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Concurrency"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/web-crawler-multithreaded"
+    },
+    {
+        "number": "1430",
+        "name": "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree"
+    },
+    {
+        "number": "1469",
+        "name": "Find All The Lonely Nodes",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/find-all-the-lonely-nodes"
+    },
+    {
+        "number": "1516",
+        "name": "Move Sub-Tree of N-Ary Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/move-sub-tree-of-n-ary-tree"
+    },
+    {
+        "number": "1522",
+        "name": "Diameter of N-Ary Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/diameter-of-n-ary-tree"
+    },
+    {
+        "number": "1612",
+        "name": "Check If Two Expression Trees are Equivalent",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent"
+    },
+    {
+        "number": "1644",
+        "name": "Lowest Common Ancestor of a Binary Tree II",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii"
+    },
+    {
+        "number": "1666",
+        "name": "Change the Root of a Binary Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/change-the-root-of-a-binary-tree"
+    },
+    {
+        "number": "1676",
+        "name": "Lowest Common Ancestor of a Binary Tree IV",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv"
+    },
+    {
+        "number": "1778",
+        "name": "Shortest Path in a Hidden Grid",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/shortest-path-in-a-hidden-grid"
+    },
+    {
+        "number": "1810",
+        "name": "Minimum Path Cost in a Hidden Grid",
+        "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Heap (Priority Queue)",
+            "Interactive"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid"
+    },
+    {
+        "number": "1858",
+        "name": "Longest Word With All Prefixes",
+        "tags": [
+            "Depth-First Search",
+            "Trie"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/longest-word-with-all-prefixes"
+    },
+    {
+        "number": "1973",
+        "name": "Count Nodes Equal to Sum of Descendants",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants"
+    },
+    {
+        "number": "2445",
+        "name": "Number of Nodes With Value One",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-nodes-with-value-one"
+    },
+    {
+        "number": "2479",
+        "name": "Maximum XOR of Two Non-Overlapping Subtrees",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Graph",
+            "Trie"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees"
+    },
+    {
+        "number": "2689",
+        "name": "Extract Kth Character From The Rope Tree",
+        "tags": [
+            "Tree",
+            "Depth-First Search"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/extract-kth-character-from-the-rope-tree"
+    },
+    {
+        "number": "569",
+        "name": "Median Employee Salary",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/median-employee-salary"
+    },
+    {
+        "number": "571",
+        "name": "Find Median Given Frequency of Numbers",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/find-median-given-frequency-of-numbers"
+    },
+    {
+        "number": "574",
+        "name": "Winning Candidate",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/winning-candidate"
+    },
+    {
+        "number": "578",
+        "name": "Get Highest Answer Rate Question",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/get-highest-answer-rate-question"
+    },
+    {
+        "number": "579",
+        "name": "Find Cumulative Salary of an Employee",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/find-cumulative-salary-of-an-employee"
+    },
+    {
+        "number": "580",
+        "name": "Count Student Number in Departments",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-student-number-in-departments"
+    },
+    {
+        "number": "597",
+        "name": "Friend Requests I: Overall Acceptance Rate",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate"
+    },
+    {
+        "number": "603",
+        "name": "Consecutive Available Seats",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/consecutive-available-seats"
+    },
+    {
+        "number": "612",
+        "name": "Shortest Distance in a Plane",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/shortest-distance-in-a-plane"
+    },
+    {
+        "number": "613",
+        "name": "Shortest Distance in a Line",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/shortest-distance-in-a-line"
+    },
+    {
+        "number": "614",
+        "name": "Second Degree Follower",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/second-degree-follower"
+    },
+    {
+        "number": "615",
+        "name": "Average Salary: Departments VS Company",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/average-salary-departments-vs-company"
+    },
+    {
+        "number": "618",
+        "name": "Students Report By Geography",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/students-report-by-geography"
+    },
+    {
+        "number": "1069",
+        "name": "Product Sales Analysis II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/product-sales-analysis-ii"
+    },
+    {
+        "number": "1076",
+        "name": "Project Employees II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/project-employees-ii"
+    },
+    {
+        "number": "1077",
+        "name": "Project Employees III",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/project-employees-iii"
+    },
+    {
+        "number": "1082",
+        "name": "Sales Analysis I",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/sales-analysis-i"
+    },
+    {
+        "number": "1083",
+        "name": "Sales Analysis II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/sales-analysis-ii"
+    },
+    {
+        "number": "512",
+        "name": "Game Play Analysis II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/game-play-analysis-ii"
+    },
+    {
+        "number": "534",
+        "name": "Game Play Analysis III",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/game-play-analysis-iii"
+    },
+    {
+        "number": "1097",
+        "name": "Game Play Analysis V",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/game-play-analysis-v"
+    },
+    {
+        "number": "1098",
+        "name": "Unpopular Books",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/unpopular-books"
+    },
+    {
+        "number": "1107",
+        "name": "New Users Daily Count",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/new-users-daily-count"
+    },
+    {
+        "number": "1112",
+        "name": "Highest Grade For Each Student",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/highest-grade-for-each-student"
+    },
+    {
+        "number": "1113",
+        "name": "Reported Posts",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/reported-posts"
+    },
+    {
+        "number": "1126",
+        "name": "Active Businesses",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/active-businesses"
+    },
+    {
+        "number": "1127",
+        "name": "User Purchase Platform",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/user-purchase-platform"
+    },
+    {
+        "number": "1132",
+        "name": "Reported Posts II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/reported-posts-ii"
+    },
+    {
+        "number": "1142",
+        "name": "User Activity for the Past 30 Days II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii"
+    },
+    {
+        "number": "1149",
+        "name": "Article Views II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/article-views-ii"
+    },
+    {
+        "number": "1159",
+        "name": "Market Analysis II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/market-analysis-ii"
+    },
+    {
+        "number": "1173",
+        "name": "Immediate Food Delivery I",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/immediate-food-delivery-i"
+    },
+    {
+        "number": "1194",
+        "name": "Tournament Winners",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/tournament-winners"
+    },
+    {
+        "number": "1205",
+        "name": "Monthly Transactions II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/monthly-transactions-ii"
+    },
+    {
+        "number": "1212",
+        "name": "Team Scores in Football Tournament",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/team-scores-in-football-tournament"
+    },
+    {
+        "number": "1225",
+        "name": "Report Contiguous Dates",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/report-contiguous-dates"
+    },
+    {
+        "number": "1241",
+        "name": "Number of Comments per Post",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/number-of-comments-per-post"
+    },
+    {
+        "number": "1264",
+        "name": "Page Recommendations",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/page-recommendations"
+    },
+    {
+        "number": "1270",
+        "name": "All People Report to the Given Manager",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/all-people-report-to-the-given-manager"
+    },
+    {
+        "number": "1285",
+        "name": "Find the Start and End Number of Continuous Ranges",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges"
+    },
+    {
+        "number": "1294",
+        "name": "Weather Type in Each Country",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/weather-type-in-each-country"
+    },
+    {
+        "number": "1303",
+        "name": "Find the Team Size",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/find-the-team-size"
+    },
+    {
+        "number": "1308",
+        "name": "Running Total for Different Genders",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/running-total-for-different-genders"
+    },
+    {
+        "number": "1322",
+        "name": "Ads Performance",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/ads-performance"
+    },
+    {
+        "number": "1336",
+        "name": "Number of Transactions per Visit",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/number-of-transactions-per-visit"
+    },
+    {
+        "number": "1350",
+        "name": "Students With Invalid Departments",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/students-with-invalid-departments"
+    },
+    {
+        "number": "1355",
+        "name": "Activity Participants",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/activity-participants"
+    },
+    {
+        "number": "1364",
+        "name": "Number of Trusted Contacts of a Customer",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer"
+    },
+    {
+        "number": "1369",
+        "name": "Get the Second Most Recent Activity",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/get-the-second-most-recent-activity"
+    },
+    {
+        "number": "1384",
+        "name": "Total Sales Amount by Year",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/total-sales-amount-by-year"
+    },
+    {
+        "number": "1398",
+        "name": "Customers Who Bought Products A and B but Not C",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c"
+    },
+    {
+        "number": "1412",
+        "name": "Find the Quiet Students in All Exams",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/find-the-quiet-students-in-all-exams"
+    },
+    {
+        "number": "1421",
+        "name": "NPV Queries",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/npv-queries"
+    },
+    {
+        "number": "1435",
+        "name": "Create a Session Bar Chart",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/create-a-session-bar-chart"
+    },
+    {
+        "number": "1440",
+        "name": "Evaluate Boolean Expression",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/evaluate-boolean-expression"
+    },
+    {
+        "number": "1445",
+        "name": "Apples & Oranges",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/apples-oranges"
+    },
+    {
+        "number": "1454",
+        "name": "Active Users",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/active-users"
+    },
+    {
+        "number": "1459",
+        "name": "Rectangles Area",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/rectangles-area"
+    },
+    {
+        "number": "1468",
+        "name": "Calculate Salaries",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/calculate-salaries"
+    },
+    {
+        "number": "1479",
+        "name": "Sales by Day of the Week",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/sales-by-day-of-the-week"
+    },
+    {
+        "number": "1495",
+        "name": "Friendly Movies Streamed Last Month",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/friendly-movies-streamed-last-month"
+    },
+    {
+        "number": "1501",
+        "name": "Countries You Can Safely Invest In",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/countries-you-can-safely-invest-in"
+    },
+    {
+        "number": "1511",
+        "name": "Customer Order Frequency",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/customer-order-frequency"
+    },
+    {
+        "number": "1532",
+        "name": "The Most Recent Three Orders",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-most-recent-three-orders"
+    },
+    {
+        "number": "1543",
+        "name": "Fix Product Name Format",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/fix-product-name-format"
+    },
+    {
+        "number": "1549",
+        "name": "The Most Recent Orders for Each Product",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-most-recent-orders-for-each-product"
+    },
+    {
+        "number": "1555",
+        "name": "Bank Account Summary",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/bank-account-summary"
+    },
+    {
+        "number": "1565",
+        "name": "Unique Orders and Customers Per Month",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/unique-orders-and-customers-per-month"
+    },
+    {
+        "number": "1571",
+        "name": "Warehouse Manager",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/warehouse-manager"
+    },
+    {
+        "number": "1596",
+        "name": "The Most Frequently Ordered Products for Each Customer",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer"
+    },
+    {
+        "number": "1607",
+        "name": "Sellers With No Sales",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/sellers-with-no-sales"
+    },
+    {
+        "number": "1613",
+        "name": "Find the Missing IDs",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-the-missing-ids"
+    },
+    {
+        "number": "1623",
+        "name": "All Valid Triplets That Can Represent a Country",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country"
+    },
+    {
+        "number": "1635",
+        "name": "Hopper Company Queries I",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/hopper-company-queries-i"
+    },
+    {
+        "number": "1645",
+        "name": "Hopper Company Queries II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/hopper-company-queries-ii"
+    },
+    {
+        "number": "1651",
+        "name": "Hopper Company Queries III",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/hopper-company-queries-iii"
+    },
+    {
+        "number": "1677",
+        "name": "Product's Worth Over Invoices",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/products-worth-over-invoices"
+    },
+    {
+        "number": "1699",
+        "name": "Number of Calls Between Two Persons",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-calls-between-two-persons"
+    },
+    {
+        "number": "1709",
+        "name": "Biggest Window Between Visits",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/biggest-window-between-visits"
+    },
+    {
+        "number": "1715",
+        "name": "Count Apples and Oranges",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-apples-and-oranges"
+    },
+    {
+        "number": "1747",
+        "name": "Leetflex Banned Accounts",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/leetflex-banned-accounts"
+    },
+    {
+        "number": "1767",
+        "name": "Find the Subtasks That Did Not Execute",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/find-the-subtasks-that-did-not-execute"
+    },
+    {
+        "number": "1777",
+        "name": "Product's Price for Each Store",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/products-price-for-each-store"
+    },
+    {
+        "number": "1783",
+        "name": "Grand Slam Titles",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/grand-slam-titles"
+    },
+    {
+        "number": "1809",
+        "name": "Ad-Free Sessions",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/ad-free-sessions"
+    },
+    {
+        "number": "1811",
+        "name": "Find Interview Candidates",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-interview-candidates"
+    },
+    {
+        "number": "1821",
+        "name": "Find Customers With Positive Revenue this Year",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/find-customers-with-positive-revenue-this-year"
+    },
+    {
+        "number": "1831",
+        "name": "Maximum Transaction Each Day",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/maximum-transaction-each-day"
+    },
+    {
+        "number": "1841",
+        "name": "League Statistics",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/league-statistics"
+    },
+    {
+        "number": "1843",
+        "name": "Suspicious Bank Accounts",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/suspicious-bank-accounts"
+    },
+    {
+        "number": "1853",
+        "name": "Convert Date Format",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/convert-date-format"
+    },
+    {
+        "number": "1867",
+        "name": "Orders With Maximum Quantity Above Average",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/orders-with-maximum-quantity-above-average"
+    },
+    {
+        "number": "1875",
+        "name": "Group Employees of the Same Salary",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/group-employees-of-the-same-salary"
+    },
+    {
+        "number": "1892",
+        "name": "Page Recommendations II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/page-recommendations-ii"
+    },
+    {
+        "number": "1917",
+        "name": "Leetcodify Friends Recommendations",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/leetcodify-friends-recommendations"
+    },
+    {
+        "number": "1919",
+        "name": "Leetcodify Similar Friends",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/leetcodify-similar-friends"
+    },
+    {
+        "number": "1939",
+        "name": "Users That Actively Request Confirmation Messages",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/users-that-actively-request-confirmation-messages"
+    },
+    {
+        "number": "1949",
+        "name": "Strong Friendship",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/strong-friendship"
+    },
+    {
+        "number": "1951",
+        "name": "All the Pairs With the Maximum Number of Common Followers",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers"
+    },
+    {
+        "number": "1972",
+        "name": "First and Last Call On the Same Day",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/first-and-last-call-on-the-same-day"
+    },
+    {
+        "number": "1988",
+        "name": "Find Cutoff Score for Each School",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-cutoff-score-for-each-school"
+    },
+    {
+        "number": "1990",
+        "name": "Count the Number of Experiments",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/count-the-number-of-experiments"
+    },
+    {
+        "number": "2004",
+        "name": "The Number of Seniors and Juniors to Join the Company",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company"
+    },
+    {
+        "number": "2010",
+        "name": "The Number of Seniors and Juniors to Join the Company II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii"
+    },
+    {
+        "number": "2020",
+        "name": "Number of Accounts That Did Not Stream",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream"
+    },
+    {
+        "number": "2026",
+        "name": "Low-Quality Problems",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/low-quality-problems"
+    },
+    {
+        "number": "2041",
+        "name": "Accepted Candidates From the Interviews",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/accepted-candidates-from-the-interviews"
+    },
+    {
+        "number": "2051",
+        "name": "The Category of Each Member in the Store",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-category-of-each-member-in-the-store"
+    },
+    {
+        "number": "2066",
+        "name": "Account Balance",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/account-balance"
+    },
+    {
+        "number": "2072",
+        "name": "The Winner University",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/the-winner-university"
+    },
+    {
+        "number": "2082",
+        "name": "The Number of Rich Customers",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/the-number-of-rich-customers"
+    },
+    {
+        "number": "2084",
+        "name": "Drop Type 1 Orders for Customers With Type 0 Orders",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders"
+    },
+    {
+        "number": "2112",
+        "name": "The Airport With the Most Traffic",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-airport-with-the-most-traffic"
+    },
+    {
+        "number": "2118",
+        "name": "Build the Equation",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/build-the-equation"
+    },
+    {
+        "number": "2142",
+        "name": "The Number of Passengers in Each Bus I",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i"
+    },
+    {
+        "number": "2153",
+        "name": "The Number of Passengers in Each Bus II",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii"
+    },
+    {
+        "number": "2159",
+        "name": "Order Two Columns Independently",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/order-two-columns-independently"
+    },
+    {
+        "number": "2173",
+        "name": "Longest Winning Streak",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/longest-winning-streak"
+    },
+    {
+        "number": "2175",
+        "name": "The Change in Global Rankings",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-change-in-global-rankings"
+    },
+    {
+        "number": "2199",
+        "name": "Finding the Topic of Each Post",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/finding-the-topic-of-each-post"
+    },
+    {
+        "number": "2205",
+        "name": "The Number of Users That Are Eligible for Discount",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount"
+    },
+    {
+        "number": "2228",
+        "name": "Users With Two Purchases Within Seven Days",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/users-with-two-purchases-within-seven-days"
+    },
+    {
+        "number": "2230",
+        "name": "The Users That Are Eligible for Discount",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount"
+    },
+    {
+        "number": "2238",
+        "name": "Number of Times a Driver Was a Passenger",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger"
+    },
+    {
+        "number": "2252",
+        "name": "Dynamic Pivoting of a Table",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/dynamic-pivoting-of-a-table"
+    },
+    {
+        "number": "2253",
+        "name": "Dynamic Unpivoting of a Table",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/dynamic-unpivoting-of-a-table"
+    },
+    {
+        "number": "2292",
+        "name": "Products With Three or More Orders in Two Consecutive Years",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years"
+    },
+    {
+        "number": "2298",
+        "name": "Tasks Count in the Weekend",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/tasks-count-in-the-weekend"
+    },
+    {
+        "number": "2308",
+        "name": "Arrange Table by Gender",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/arrange-table-by-gender"
+    },
+    {
+        "number": "2314",
+        "name": "The First Day of the Maximum Recorded Degree in Each City",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city"
+    },
+    {
+        "number": "2324",
+        "name": "Product Sales Analysis IV",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/product-sales-analysis-iv"
+    },
+    {
+        "number": "2329",
+        "name": "Product Sales Analysis V",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/product-sales-analysis-v"
+    },
+    {
+        "number": "2339",
+        "name": "All the Matches of the League",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/all-the-matches-of-the-league"
+    },
+    {
+        "number": "2346",
+        "name": "Compute the Rank as a Percentage",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/compute-the-rank-as-a-percentage"
+    },
+    {
+        "number": "2362",
+        "name": "Generate the Invoice",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/generate-the-invoice"
+    },
+    {
+        "number": "2372",
+        "name": "Calculate the Influence of Each Salesperson",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/calculate-the-influence-of-each-salesperson"
+    },
+    {
+        "number": "2377",
+        "name": "Sort the Olympic Table",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/sort-the-olympic-table"
+    },
+    {
+        "number": "2388",
+        "name": "Change Null Values in a Table to the Previous Value",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value"
+    },
+    {
+        "number": "2394",
+        "name": "Employees With Deductions",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/employees-with-deductions"
+    },
+    {
+        "number": "2474",
+        "name": "Customers With Strictly Increasing Purchases",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/customers-with-strictly-increasing-purchases"
+    },
+    {
+        "number": "2480",
+        "name": "Form a Chemical Bond",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/form-a-chemical-bond"
+    },
+    {
+        "number": "2494",
+        "name": "Merge Overlapping Events in the Same Hall",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall"
+    },
+    {
+        "number": "2504",
+        "name": "Concatenate the Name and the Profession",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/concatenate-the-name-and-the-profession"
+    },
+    {
+        "number": "2668",
+        "name": "Find Latest Salaries",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/find-latest-salaries"
+    },
+    {
+        "number": "2669",
+        "name": "Count Artist Occurrences On Spotify Ranking List",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list"
+    },
+    {
+        "number": "2686",
+        "name": "Immediate Food Delivery III",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/immediate-food-delivery-iii"
+    },
+    {
+        "number": "2687",
+        "name": "Bikes Last Time Used",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/bikes-last-time-used"
+    },
+    {
+        "number": "2688",
+        "name": "Find Active Users",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-active-users"
+    },
+    {
+        "number": "2701",
+        "name": "Consecutive Transactions with Increasing Amounts",
+        "tags": [
+            "Database"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts"
+    },
+    {
+        "number": "1197",
+        "name": "Minimum Knight Moves",
+        "tags": [
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-knight-moves"
+    },
+    {
+        "number": "1215",
+        "name": "Stepping Numbers",
+        "tags": [
+            "Backtracking",
+            "Breadth-First Search"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/stepping-numbers"
+    },
+    {
+        "number": "1602",
+        "name": "Find Nearest Right Node in Binary Tree",
+        "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/find-nearest-right-node-in-binary-tree"
+    },
+    {
+        "number": "255",
+        "name": "Verify Preorder Sequence in Binary Search Tree",
+        "tags": [
+            "Stack",
+            "Tree",
+            "Binary Search Tree",
+            "Recursion",
+            "Monotonic Stack",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree"
+    },
+    {
+        "number": "510",
+        "name": "Inorder Successor in BST II",
+        "tags": [
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/inorder-successor-in-bst-ii"
+    },
+    {
+        "number": "776",
+        "name": "Split BST",
+        "tags": [
+            "Tree",
+            "Binary Search Tree",
+            "Recursion",
+            "Binary Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/split-bst"
+    },
+    {
+        "number": "1586",
+        "name": "Binary Search Tree Iterator II",
+        "tags": [
+            "Stack",
+            "Tree",
+            "Design",
+            "Binary Search Tree",
+            "Binary Tree",
+            "Iterator"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/binary-search-tree-iterator-ii"
+    },
+    {
+        "number": "1902",
+        "name": "Depth of BST Given Insertion Order",
+        "tags": [
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree",
+            "Ordered Set"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/depth-of-bst-given-insertion-order"
+    },
+    {
+        "number": "1265",
+        "name": "Print Immutable Linked List in Reverse",
+        "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/print-immutable-linked-list-in-reverse"
+    },
+    {
+        "number": "1135",
+        "name": "Connecting Cities With Minimum Cost",
+        "tags": [
+            "Union Find",
+            "Graph",
+            "Heap (Priority Queue)",
+            "Minimum Spanning Tree"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/connecting-cities-with-minimum-cost"
+    },
+    {
+        "number": "2714",
+        "name": "Find Shortest Path with K Hops",
+        "tags": [
+            "Graph",
+            "Heap (Priority Queue)",
+            "Shortest Path"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/find-shortest-path-with-k-hops"
+    },
+    {
+        "number": "716",
+        "name": "Max Stack",
+        "tags": [
+            "Linked List",
+            "Stack",
+            "Design",
+            "Doubly-Linked List",
+            "Ordered Set"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/max-stack"
+    },
+    {
+        "number": "631",
+        "name": "Design Excel Sum Formula",
+        "tags": [
+            "Graph",
+            "Design",
+            "Topological Sort"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/design-excel-sum-formula"
+    },
+    {
+        "number": "1136",
+        "name": "Parallel Courses",
+        "tags": [
+            "Graph",
+            "Topological Sort"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/parallel-courses"
+    },
+    {
+        "number": "1168",
+        "name": "Optimize Water Distribution in a Village",
+        "tags": [
+            "Union Find",
+            "Graph",
+            "Minimum Spanning Tree"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/optimize-water-distribution-in-a-village"
+    },
+    {
+        "number": "1724",
+        "name": "Checking Existence of Edge Length Limited Paths II",
+        "tags": [
+            "Union Find",
+            "Graph",
+            "Minimum Spanning Tree"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii"
+    },
+    {
+        "number": "2077",
+        "name": "Paths in Maze That Lead to Same Room",
+        "tags": [
+            "Graph"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room"
+    },
+    {
+        "number": "2093",
+        "name": "Minimum Cost to Reach City With Discounts",
+        "tags": [
+            "Graph",
+            "Shortest Path"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts"
+    },
+    {
+        "number": "489",
+        "name": "Robot Room Cleaner",
+        "tags": [
+            "Backtracking",
+            "Interactive"
+        ],
+        "difficulty": "Hard",
+        "url": "https://leetcode.com/problems/robot-room-cleaner"
+    },
+    {
+        "number": "708",
+        "name": "Insert into a Sorted Circular Linked List",
+        "tags": [
+            "Linked List"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list"
+    },
+    {
+        "number": "1474",
+        "name": "Delete N Nodes After M Nodes of a Linked List",
+        "tags": [
+            "Linked List"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list"
+    },
+    {
+        "number": "1188",
+        "name": "Design Bounded Blocking Queue",
+        "tags": [
+            "Concurrency"
+        ],
+        "difficulty": "Medium",
+        "url": "https://leetcode.com/problems/design-bounded-blocking-queue"
+    },
+    {
+        "number": "1279",
+        "name": "Traffic Light Controlled Intersection",
+        "tags": [
+            "Concurrency"
+        ],
+        "difficulty": "Easy",
+        "url": "https://leetcode.com/problems/traffic-light-controlled-intersection"
+    }
+]

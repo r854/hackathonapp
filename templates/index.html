@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../static/style.css">
+  <link rel="icon" href="../assets/favicon.ico" type="image/png">
+  
+  <style>
+    /* Rest of your CSS code */
+    .navbar-brand img {
+      height: 50px; /* Default size for large viewports */
+    }
+
+    @media (max-width: 768px) {
+      .navbar-brand img {
+        height: 30px; /* Adjust the height for mobile devices */
+      }
+    }
+
+    .hero {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      height: 100vh;
+      background-image: url("https://shapedivider.app/img/page_section_example.a3960bf3.png");
+      background-size: cover;
+      background-position: center;
+      text-align: left;
+      padding-left: 20px;
+    }
+
+    .hero-text {
+      color: black;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+      max-width: 50%;
+    }
+
+    .hero-text h1 {
+      font-size: 4rem;
+      margin-bottom: 20px;
+    }
+
+    .hero-text p {
+      font-size: 1.5rem;
+    }
+
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+      padding: 20px;
+    }
+    .card {
+      width: 200px;
+      height: 200px;
+      background-color:white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.3s ease;
+      border: none; /* Remove the border */
+      margin: 0;
+    }
+
+    .card img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover {
+      transform: scale(1.1);
+    }
+
+    .card:hover img {
+      transform: scale(1.2);
+    }
+
+    .footer {
+      position: relative;
+      background-color: #f8f9fa;
+      padding-top: 40px;
+    }
+
+    .footer-shape {
+      position: absolute;
+      bottom: -1px;
+      left: 0;
+      width: 100%;
+      height: 100px;
+      overflow: hidden;
+    }
+
+    .footer-shape svg {
+      fill: #ffffff;
+      width: 100%;
+      height: 100%;
+      transform: scaleX(-1);
+    }
+
+    .container {
+      margin-bottom: 20px;
+      padding: 20px;
+    }
+    .footer {
+      background-color: #f8f9fa;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <!-- Add your logo here -->
+        <a class="navbar-brand" href="#"><img src="../assets/logo.png" alt="Logo"></a>
+
+        
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav me-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+          </ul>
+          <div class="cta">
+            <a id ="loginButton" href="#" class="btn btn-primary">Login</a>
+            <a id ="signupButton" href="#" class="btn btn-primary">Sign Up</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <!-- Rest of your content goes here -->
+  <div class="hero">
+    <div class="hero-text">
+      <h1 id="typing-text"></h1>
+      <p>Your Personal DSA Companion</p>
+    </div>
+  </div>
+
+
+  <div class="card-container">
+    <div class="card">
+      <img src="../assets/lc.png" alt="Image 1">
+    </div>
+    <div class="card">
+      <img src="../assets/cc.png" alt="Image 1">
+    </div>
+    <div class="card">
+      <img src="../assets/cf.jpg" alt="Image 1">
+    </div>
+    <div class="card">
+      <img src="../assets/cses.jpg" alt="Image 1">
+    </div>
+    <div class="card">
+      <img src="../assets/pe.png" alt="Image 1">
+    </div>
+    <div class="card">
+      <img src="../assets/hr.png" alt="Image 1">
+    </div>
+    <div class="card">
+      <img src="../assets/he.png" alt="Image 1">
+    </div>
+    <!-- Add more cards here -->
+  </div>
+  
+  <footer class="footer">
+    <div>
+      <h3>Footer Content</h3>
+      <p>Replace this with your actual footer content, links, and other information.</p>
+      <ul>
+        <li><a href="#">Link 1</a></li>
+        <li><a href="#">Link 2</a></li>
+        <li><a href="#">Link 3</a></li>
+      </ul>
+    </div>
+  </footer>
+<!-- Login Modal -->
+<div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="loginModalLabel">Login</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <!-- Add your login form or content here -->
+        <form id="loginForm" action="/login" method="POST">
+          <div class="mb-3">
+            <label for="username" class="form-label">Username</label>
+            <input type="text" class="form-control" id="username" name="username">
+          </div>
+          <div class="mb-3">
+            <label for="password" class="form-label">Password</label>
+            <input type="password" class="form-control" id="password" name="password">
+          </div>
+          <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Sign Up Modal -->
+<div class="modal fade" id="signupModal" tabindex="-1" aria-labelledby="signupModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="signupModalLabel">Sign Up</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <!-- Add your sign-up form or content here -->
+        <form id="loginForm" action="/signup" method="POST">
+          <div class="mb-3">
+            <label for="username" class="form-label">Username</label>
+            <input type="text" class="form-control" id="username">
+          </div>
+          <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email">
+          </div>
+          <div class="mb-3">
+            <label for="password" class="form-label">Password</label>
+            <input type="password" class="form-control" id="password">
+          </div>
+          <button type="submit" class="btn btn-primary">Sign Up</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+  <script>
+    function toggleMenu() {
+    var menu = document.getElementById("menu");
+    menu.classList.toggle("active");
+  }
+    var typed = new Typed('#typing-text', {
+      strings: ['Leetcode','Codeforces','Codechef','Hackerrank','Hackerearth'],
+      typeSpeed: 200,
+      loop: true
+    });
+    // JavaScript code for triggering the login modal
+    var loginModal = new bootstrap.Modal(document.getElementById('loginModal'), {
+      keyboard: false
+    });
+
+    // Add an event listener to the login button
+    var loginButton = document.getElementById('loginButton');
+    loginButton.addEventListener('click', function() {
+      loginModal.show();
+    });
+     // JavaScript code for triggering the sign up modal
+  var signupModal = new bootstrap.Modal(document.getElementById('signupModal'), {
+    keyboard: false
+  });
+
+  // Add an event listener to the sign up button
+  var signupButton = document.getElementById('signupButton');
+  signupButton.addEventListener('click', function() {
+    signupModal.show();
+  });
+  </script>
+</body>
+</html>
