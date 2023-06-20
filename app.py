@@ -1,5 +1,4 @@
 from flask import Flask, redirect, render_template, request, url_for, jsonify
-from datetime import datetime, timedelta
 import TF_IDF.query100 as query
 
 app = Flask(__name__)
