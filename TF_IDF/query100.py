@@ -96,3 +96,10 @@ def return_search_result(query):
                 break
             search_result.append(questions[doc_id - 1])
         return search_result
+
+def main():
+    result = return_search_result("4sum")
+    print(result)
+
+if __name__ == "__main__":
+    main()

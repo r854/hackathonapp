@@ -967,3 +967,10 @@ if __name__ == "__main__":
     with open('dataframe.txt', 'w') as file:
         # Write the DataFrame string to the file
         file.write(df_str)
+
+        pip install -r requirements.txt
+
+        'TF_IDF/inverted_index.pkl'
+        'TF_IDF/inverted_index100.txt'
+        'TF_IDF/clean_doc.pkl'
+        'TF_IDF/clean_doc100.txt'
