@@ -5,6 +5,7 @@ import pickle
 import prepare
 import pandas as pd
 
+
 def preprocess_query_string():
     query = input("What you wan't to search ?")
     query_tokens = prepare.preprocess_text_string(query)
@@ -75,25 +76,23 @@ def calculate_sorted_order_of_documents(query_terms,inverted_index,documents):
     sorted_documents = sorted(sorted_documents, key=lambda x: x[0], reverse=True)
     return sorted_documents
 
-def return_search_result(query):
-
-    search_result = []
-    query_tokens = prepare.preprocess_text_string(query)
-    inverted_index = load_inverted_index('inverted_index.pkl')
-    documents = load_documents('clean_doc.pkl')
-    permutation = calculate_sorted_order_of_documents(query_tokens,inverted_index,documents)
-    questions = load_question_details('FreeLeetcode.json')
-
+def return_search_result(permutation):
+    index = 0
+    questions = load_question_details('filtering/FreeLeetcode.json')
     for score,doc_id in permutation:
-        search_result.append(questions[str(doc_id - 1)])
-    return search_result
-
-
-
+       index +=1
+       if index<=40:
+           print('name = %s, score = %d \n' %(questions[doc_id-1]['url'],score))
+       else:
+           break
 
 def main():
-    ans = return_search_result("3sum")
-    print(ans)
+    clean_doc = load_documents('TF_IDF/clean_doc.pkl')
+    inverted_index = load_inverted_index('TF_IDF/inverted_index.pkl')
+    query_terms = preprocess_query_string()
+
+    permutation = calculate_sorted_order_of_documents(query_terms,inverted_index,clean_doc)
+    return_search_result(permutation)
     
 if __name__ == "__main__":
     main()

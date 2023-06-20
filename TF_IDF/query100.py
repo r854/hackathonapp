@@ -2,9 +2,8 @@ import math
 import json
 import numpy as np
 import pickle
-import prepare
+import TF_IDF.prepare as prepare
 import pandas as pd
-
 
 def preprocess_query_string():
     query = input("What you wan't to search ?")
@@ -76,23 +75,24 @@ def calculate_sorted_order_of_documents(query_terms,inverted_index,documents):
     sorted_documents = sorted(sorted_documents, key=lambda x: x[0], reverse=True)
     return sorted_documents
 
-def return_search_result(permutation):
-    index = 0
+def return_all_questions():
     questions = load_question_details('FreeLeetcode.json')
-    for score,doc_id in permutation:
-       index +=1
-       if index<=40:
-           print('name = %s, score = %d \n' %(questions[doc_id-1]['url'],score))
-       else:
-           break
+    return questions
 
-def main():
-    clean_doc = load_documents('clean_doc.pkl')
-    inverted_index = load_inverted_index('inverted_index.pkl')
-    query_terms = preprocess_query_string()
-
-    permutation = calculate_sorted_order_of_documents(query_terms,inverted_index,clean_doc)
-    return_search_result(permutation)
-    
-if __name__ == "__main__":
-    main()
+def return_search_result(query):
+        
+        search_result = []
+        query_tokens = prepare.preprocess_text_string(query)
+        inverted_index = load_inverted_index('TF_IDF/inverted_index.pkl')
+        documents = load_documents('TF_IDF/clean_doc.pkl')
+        questions = load_question_details('filtering/FreeLeetcode.json')
+        try:
+            permutation = calculate_sorted_order_of_documents(query_tokens,inverted_index,documents)
+        except:
+            return "No results found"
+        
+        for score,doc_id in permutation:
+            if score == 0:
+                break
+            search_result.append(questions[doc_id - 1])
+        return search_result

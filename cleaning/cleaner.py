@@ -1,6 +1,6 @@
 import json
-
-input = "Leetcode1.json"
+#Filters out only the unique question from Leetcode1.json and writes it to LeetcodeUnique.json
+input = "scrapping/Leetcode1.json"
 output = "LeetcodeUnique.json"
 # Read the JSON file
 with open(input, 'r') as file:

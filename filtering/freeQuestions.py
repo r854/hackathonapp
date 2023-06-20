@@ -9,7 +9,10 @@ from selenium.webdriver.common.keys import Keys
 import time
 import json
 import os
-#MOTT0 = Filter free ones from the total (free + premium)
+#MOTT0 = Filter free ones from the total (free + premium) and if free then copy Problem statement to  folder QDATA
+
+filepath = "cleaning/LeetcodeUnique.json"
+QDATA_FOLDER = "../QData"
 
 options = webdriver.ChromeOptions()
 options.add_argument("--ignore-certificate-errors")
@@ -18,7 +21,7 @@ options.add_experimental_option("excludeSwitches",["enable-Logging"])
 options.add_experimental_option("detach",True)
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=options)
-QDATA_FOLDER = "QData"
+
 def load_json_file(file_path):
     with open(file_path, 'r') as file:
         data = json.load(file)
@@ -66,7 +69,7 @@ def get_problem_statement(link,index):
             create_folder_for_free_question(str(index),problemStatement.text)
         time.sleep(1)
         return True
-    except Exception as e:
+    except Exception as e: #Will only get triggered for Premium questions
         print(e)
     return False
 
@@ -90,7 +93,7 @@ def write_premium_question_to_file(premium):
 
 def main():
     # Main logic of your program goes here
-    json_file_path = 'LeetcodeUnique.json'
+    json_file_path = filepath
     allQuestions = load_json_file(json_file_path)
     filter_free_questions(allQuestions)
     driver.quit()
