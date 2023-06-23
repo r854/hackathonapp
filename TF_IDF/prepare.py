@@ -7,7 +7,7 @@ import pickle
 from nltk.tokenize import word_tokenize
 
 #Download if not in your system , remember it wont download over jio network
-#nltk.download('punkt')
+nltk.download('punkt')
 
 
 def load_problem_title(filepath):
